@@ -1,6 +1,59 @@
-<h1 align="center">Hi 👋</h1>
-<h3 align="center">Data Analyst & SQL Developer</h3>
+# Data Analytics Projects – SQL | Python | Power BI | Tableau
 
+## Overview
+This repository showcases end-to-end data analytics projects focused on solving
+real-world business and operational problems using structured analysis, clean metrics,
+and clear reasoning.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+The emphasis is not on tools alone, but on:
+- Defining the right business questions
+- Validating data quality and assumptions
+- Using data to explain *why* something happens
+- Translating analysis into actionable recommendations
+
+---
+
+## What You’ll Find Here
+Projects in this repository follow a consistent structure:
+- Clear problem statements grounded in real business scenarios
+- Data quality checks and documented assumptions
+- Analytical workflows using SQL and Python
+- Insight-driven dashboards built in Power BI and Tableau
+
+This is a working portfolio, continuously expanded and refined.
+
+---
+
+## Featured Projects
+
+### 1. Pizza Delivery Operations Analysis (SQL)
+**Objective:**  
+Identify operational factors driving delivery delays across restaurants and locations.
+
+**Key Analyses:**
+- Delivery duration vs estimated time
+- Impact of traffic, distance, order time, and order complexity
+- Restaurant- and city-level performance comparison
+- Detection of data inconsistencies in delay indicators
+
+**Skills Demonstrated:**  
+SQL aggregations, CTEs, window functions, metric validation, analytical reasoning
+
+📁 Project Folder: `/pizza-delivery-sql-analysis`
+
+---
+
+## Core Skills Demonstrated
+- SQL-based analytical problem solving
+- Data quality validation and assumption handling
+- KPI definition and performance analysis
+- Python-based exploratory analysis
+- Business-focused dashboard design (Power BI, Tableau)
+- Clear communication of insights and limitations
+
+---
+
+## Current Focus
+- Deepening SQL performance and optimization analysis
+- Building executive-grade Power BI dashboards
+- Expanding Python analysis toward predictive insights
