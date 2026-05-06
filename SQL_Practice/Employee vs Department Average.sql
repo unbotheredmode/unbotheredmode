@@ -8,7 +8,6 @@
 --Show employees earning more than the average salary of their department, and how much higher they are
 ---─────────────────────────────────────────────-─────────────────────────────────────────────
 
-```sql
 --getting the dept average salary
 ;with dept_avg_salary as
     (select dept_id,avg(salary) avg_salary
@@ -19,7 +18,7 @@
 select e.*,(e.salary-d.avg_salary) AmtHigherThanAverage from #employees e
 join dept_avg_salary d on e.dept_id=d.dept_id 
 where e.salary>d.avg_salary
-```
+
 
 /* 
 ---─────────────────────────────────────────────-─────────────────────────────────────────────
